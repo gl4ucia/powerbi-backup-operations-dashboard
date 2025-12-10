@@ -1,0 +1,251 @@
+JobID;DataHoraInicio;Cliente;Ambiente;Ferramenta;TipoJob;Regiao;DuracaoMin;TamanhoGB;Status;CategoriaFalha;SLA_Minutos;SLA_Estourado
+JOB-1150;2025-08-01 01:00:00;Hospital Vida;Produção;Veeam;Backup Completo;Azure;2.1;28.39;Sucesso;Sem falha;180;Não
+JOB-1019;2025-08-01 21:00:00;Clínica Sim - Matriz;Desenvolvimento;Veeam;Backup Incremental;On-premise;28.7;87.25;Falha;Armazenamento;90;Não
+JOB-1043;2025-08-02 10:00:00;Grupo Horizonte;Homologação;NetBackup;Backup Incremental;AWS;71.5;35.02;Sucesso;Sem falha;90;Não
+JOB-1068;2025-08-03 16:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Completo;Azure;67.1;70.66;Sucesso;Sem falha;180;Não
+JOB-1105;2025-08-04 23:00:00;Clínica Sim - Unidade 01;Desenvolvimento;NetBackup;Backup Incremental;AWS;13.1;42.85;Sucesso;Sem falha;90;Não
+JOB-1213;2025-08-05 02:00:00;Lab Saúde Total;Produção;Veeam;Backup Completo;AWS;44.0;29.71;Sucesso;Sem falha;180;Não
+JOB-1210;2025-08-05 07:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Diferencial;Azure;14.0;14.9;Sucesso;Sem falha;120;Não
+JOB-1164;2025-08-06 02:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Diferencial;AWS;7.9;49.28;Sucesso;Sem falha;120;Não
+JOB-1011;2025-08-06 10:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Completo;Azure;9.5;46.34;Sucesso;Sem falha;180;Não
+JOB-1179;2025-08-07 02:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Incremental;On-premise;25.2;12.67;Sucesso;Sem falha;90;Não
+JOB-1220;2025-08-07 16:00:00;Lab Saúde Total;Produção;NetBackup;Backup Incremental;On-premise;14.8;107.5;Sucesso;Sem falha;90;Não
+JOB-1051;2025-08-07 17:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;On-premise;89.4;55.51;Sucesso;Sem falha;90;Não
+JOB-1172;2025-08-08 18:00:00;Hospital Vida;Homologação;Veeam;Backup Completo;On-premise;36.2;58.04;Falha;Armazenamento;180;Não
+JOB-1026;2025-08-08 21:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Incremental;On-premise;18.1;47.53;Sucesso;Sem falha;90;Não
+JOB-1168;2025-08-09 05:00:00;Lab Saúde Total;Produção;Veeam;Backup Diferencial;On-premise;13.4;95.47;Sucesso;Sem falha;120;Não
+JOB-1082;2025-08-09 08:00:00;Lab Saúde Total;Desenvolvimento;Veeam;Backup Incremental;AWS;2.9;45.42;Sucesso;Sem falha;90;Não
+JOB-1052;2025-08-09 09:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;On-premise;30.8;35.9;Sucesso;Sem falha;90;Não
+JOB-1163;2025-08-09 10:00:00;Clínica Sim - Unidade 01;Homologação;NetBackup;Backup Completo;AWS;42.0;16.66;Sucesso;Sem falha;180;Não
+JOB-1098;2025-08-09 14:00:00;Hospital Vida;Homologação;Veeam;Backup Incremental;AWS;14.7;52.18;Sucesso;Sem falha;90;Não
+JOB-1241;2025-08-10 09:00:00;Grupo Horizonte;Produção;Veeam;Backup Diferencial;On-premise;19.5;29.57;Sucesso;Sem falha;120;Não
+JOB-1036;2025-08-11 01:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;On-premise;2.2;49.81;Sucesso;Sem falha;90;Não
+JOB-1211;2025-08-11 13:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;On-premise;8.3;48.56;Falha;Credenciais;90;Não
+JOB-1190;2025-08-11 22:00:00;Clínica Sim - Unidade 02;Produção;NetBackup;Backup Incremental;AWS;24.0;38.94;Sucesso;Sem falha;90;Não
+JOB-1167;2025-08-13 05:00:00;Lab Saúde Total;Produção;Veeam;Backup Completo;AWS;31.1;21.94;Sucesso;Sem falha;180;Não
+JOB-1135;2025-08-14 05:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Incremental;On-premise;26.0;21.3;Falha;Configuração;90;Não
+JOB-1008;2025-08-14 18:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;Azure;43.1;15.21;Sucesso;Sem falha;90;Não
+JOB-1217;2025-08-15 01:00:00;Lab Saúde Total;Desenvolvimento;Veeam;Backup Completo;On-premise;60.5;25.95;Sucesso;Sem falha;180;Não
+JOB-1059;2025-08-15 01:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;On-premise;22.3;25.21;Sucesso;Sem falha;90;Não
+JOB-1078;2025-08-16 18:00:00;Grupo Horizonte;Homologação;NetBackup;Backup Incremental;Azure;42.6;59.19;Sucesso;Sem falha;90;Não
+JOB-1064;2025-08-16 19:00:00;Clínica Sim - Unidade 01;Homologação;NetBackup;Backup Incremental;Azure;98.8;11.65;Sucesso;Sem falha;90;Sim
+JOB-1075;2025-08-17 07:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Incremental;AWS;15.8;54.94;Falha;Timeout;90;Não
+JOB-1097;2025-08-17 08:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Incremental;AWS;3.1;29.86;Sucesso;Sem falha;90;Não
+JOB-1222;2025-08-17 13:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Completo;AWS;11.8;45.6;Falha;Armazenamento;180;Não
+JOB-1095;2025-08-17 13:00:00;Hospital Vida;Produção;Veeam;Backup Completo;On-premise;22.3;33.13;Sucesso;Sem falha;180;Não
+JOB-1165;2025-08-17 16:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Incremental;AWS;19.5;23.43;Sucesso;Sem falha;90;Não
+JOB-1230;2025-08-17 16:00:00;Hospital Vida;Produção;NetBackup;Backup Diferencial;AWS;56.9;23.17;Sucesso;Sem falha;120;Não
+JOB-1202;2025-08-17 19:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Incremental;AWS;18.7;30.81;Sucesso;Sem falha;90;Não
+JOB-1077;2025-08-18 10:00:00;Clínica Sim - Unidade 01;Desenvolvimento;Veeam;Backup Incremental;On-premise;7.1;15.86;Sucesso;Sem falha;90;Não
+JOB-1197;2025-08-19 20:00:00;Lab Saúde Total;Produção;NetBackup;Backup Incremental;On-premise;2.1;56.85;Sucesso;Sem falha;90;Não
+JOB-1245;2025-08-19 20:00:00;Hospital Vida;Produção;NetBackup;Backup Incremental;On-premise;37.3;58.58;Falha;Credenciais;90;Não
+JOB-1056;2025-08-19 23:00:00;Hospital Vida;Homologação;Veeam;Backup Incremental;Azure;26.2;39.7;Sucesso;Sem falha;90;Não
+JOB-1018;2025-08-20 03:00:00;Hospital Vida;Desenvolvimento;Veeam;Backup Completo;On-premise;8.0;25.97;Sucesso;Sem falha;180;Não
+JOB-1232;2025-08-20 03:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Diferencial;On-premise;7.8;17.23;Sucesso;Sem falha;120;Não
+JOB-1006;2025-08-20 10:00:00;Grupo Horizonte;Homologação;Veeam;Backup Diferencial;Azure;16.0;113.74;Falha;Configuração;120;Não
+JOB-1234;2025-08-20 13:00:00;Lab Saúde Total;Produção;NetBackup;Backup Diferencial;On-premise;11.6;43.11;Falha;Configuração;120;Não
+JOB-1021;2025-08-20 18:00:00;Lab Saúde Total;Homologação;NetBackup;Backup Incremental;On-premise;39.0;82.32;Sucesso;Sem falha;90;Não
+JOB-1182;2025-08-21 08:00:00;Clínica Sim - Unidade 02;Produção;NetBackup;Backup Incremental;On-premise;4.0;85.28;Sucesso;Sem falha;90;Não
+JOB-1065;2025-08-21 12:00:00;Grupo Horizonte;Desenvolvimento;Veeam;Backup Diferencial;Azure;9.6;93.87;Sucesso;Sem falha;120;Não
+JOB-1094;2025-08-21 22:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;On-premise;42.0;74.23;Sucesso;Sem falha;90;Não
+JOB-1085;2025-08-21 22:00:00;Hospital Vida;Produção;Veeam;Backup Completo;On-premise;28.4;31.17;Falha;Armazenamento;180;Não
+JOB-1109;2025-08-23 12:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;On-premise;7.9;136.47;Sucesso;Sem falha;90;Não
+JOB-1248;2025-08-23 18:00:00;Lab Saúde Total;Produção;Veeam;Backup Completo;On-premise;15.4;22.39;Sucesso;Sem falha;180;Não
+JOB-1238;2025-08-24 10:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Diferencial;On-premise;26.6;70.96;Sucesso;Sem falha;120;Não
+JOB-1027;2025-08-24 10:00:00;Clínica Sim - Unidade 01;Desenvolvimento;NetBackup;Backup Completo;On-premise;20.3;59.32;Sucesso;Sem falha;180;Não
+JOB-1103;2025-08-24 11:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Diferencial;AWS;1.6;35.0;Sucesso;Sem falha;120;Não
+JOB-1145;2025-08-24 11:00:00;Lab Saúde Total;Produção;Veeam;Backup Completo;AWS;15.2;47.0;Sucesso;Sem falha;180;Não
+JOB-1206;2025-08-25 10:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;On-premise;29.8;8.95;Sucesso;Sem falha;90;Não
+JOB-1034;2025-08-26 00:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Incremental;Azure;6.0;44.38;Sucesso;Sem falha;90;Não
+JOB-1170;2025-08-26 08:00:00;Clínica Sim - Unidade 01;Homologação;NetBackup;Backup Completo;AWS;18.3;17.68;Sucesso;Sem falha;180;Não
+JOB-1192;2025-08-26 23:00:00;Lab Saúde Total;Homologação;Veeam;Backup Diferencial;Azure;23.7;57.49;Sucesso;Sem falha;120;Não
+JOB-1205;2025-08-27 03:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Incremental;On-premise;7.4;176.24;Falha;Configuração;90;Não
+JOB-1231;2025-08-27 15:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Completo;AWS;69.2;139.88;Sucesso;Sem falha;180;Não
+JOB-1185;2025-08-27 16:00:00;Hospital Vida;Homologação;Veeam;Backup Diferencial;Azure;28.5;5.81;Sucesso;Sem falha;120;Não
+JOB-1151;2025-08-27 17:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Completo;AWS;34.0;73.64;Falha;Timeout;180;Não
+JOB-1031;2025-08-27 22:00:00;Grupo Horizonte;Produção;Veeam;Backup Diferencial;Azure;19.3;27.8;Sucesso;Sem falha;120;Não
+JOB-1134;2025-08-28 00:00:00;Grupo Horizonte;Produção;Veeam;Backup Diferencial;On-premise;27.9;21.95;Sucesso;Sem falha;120;Não
+JOB-1247;2025-08-28 10:00:00;Grupo Horizonte;Produção;NetBackup;Backup Diferencial;AWS;32.7;37.11;Sucesso;Sem falha;120;Não
+JOB-1174;2025-08-28 11:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;On-premise;20.0;61.95;Sucesso;Sem falha;90;Não
+JOB-1138;2025-08-28 15:00:00;Hospital Vida;Homologação;Veeam;Backup Incremental;AWS;30.8;46.53;Sucesso;Sem falha;90;Não
+JOB-1137;2025-08-29 11:00:00;Grupo Horizonte;Desenvolvimento;Veeam;Backup Incremental;On-premise;7.1;11.86;Sucesso;Sem falha;90;Não
+JOB-1148;2025-08-30 02:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Completo;On-premise;40.4;30.39;Falha;Timeout;180;Não
+JOB-1049;2025-08-30 06:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Incremental;Azure;6.5;58.32;Sucesso;Sem falha;90;Não
+JOB-1131;2025-08-30 13:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;Azure;23.0;35.82;Sucesso;Sem falha;90;Não
+JOB-1020;2025-09-01 03:00:00;Hospital Vida;Produção;NetBackup;Backup Incremental;Azure;28.4;36.66;Sucesso;Sem falha;90;Não
+JOB-1063;2025-09-01 19:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Diferencial;On-premise;30.1;82.78;Sucesso;Sem falha;120;Não
+JOB-1166;2025-09-01 22:00:00;Clínica Sim - Matriz;Desenvolvimento;Veeam;Backup Incremental;On-premise;50.6;10.37;Sucesso;Sem falha;90;Não
+JOB-1013;2025-09-02 01:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;On-premise;26.3;31.05;Sucesso;Sem falha;90;Não
+JOB-1042;2025-09-02 07:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Completo;On-premise;28.5;36.1;Sucesso;Sem falha;180;Não
+JOB-1084;2025-09-02 11:00:00;Lab Saúde Total;Produção;NetBackup;Backup Completo;On-premise;16.2;50.91;Sucesso;Sem falha;180;Não
+JOB-1062;2025-09-02 23:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;On-premise;1.7;2.29;Sucesso;Sem falha;90;Não
+JOB-1115;2025-09-03 03:00:00;Clínica Sim - Unidade 01;Homologação;Veeam;Backup Incremental;Azure;34.7;29.01;Sucesso;Sem falha;90;Não
+JOB-1242;2025-09-03 05:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Completo;AWS;26.3;80.57;Sucesso;Sem falha;180;Não
+JOB-1087;2025-09-03 12:00:00;Hospital Vida;Produção;Veeam;Backup Completo;On-premise;4.8;63.83;Sucesso;Sem falha;180;Não
+JOB-1055;2025-09-03 23:00:00;Lab Saúde Total;Homologação;Veeam;Backup Completo;On-premise;9.6;89.5;Sucesso;Sem falha;180;Não
+JOB-1224;2025-09-03 23:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;On-premise;66.3;65.57;Sucesso;Sem falha;90;Não
+JOB-1246;2025-09-03 23:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Completo;On-premise;16.6;59.27;Falha;Credenciais;180;Não
+JOB-1162;2025-09-04 19:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;On-premise;17.1;72.18;Sucesso;Sem falha;90;Não
+JOB-1153;2025-09-05 14:00:00;Grupo Horizonte;Homologação;Veeam;Backup Incremental;AWS;62.0;79.61;Sucesso;Sem falha;90;Não
+JOB-1000;2025-09-05 20:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Diferencial;On-premise;41.3;74.84;Sucesso;Sem falha;120;Não
+JOB-1102;2025-09-05 23:00:00;Clínica Sim - Matriz;Desenvolvimento;NetBackup;Backup Diferencial;On-premise;3.7;20.92;Sucesso;Sem falha;120;Não
+JOB-1096;2025-09-06 06:00:00;Lab Saúde Total;Produção;Veeam;Backup Diferencial;On-premise;16.1;101.98;Sucesso;Sem falha;120;Não
+JOB-1216;2025-09-06 13:00:00;Clínica Sim - Unidade 02;Produção;NetBackup;Backup Diferencial;On-premise;29.2;16.72;Sucesso;Sem falha;120;Não
+JOB-1060;2025-09-06 14:00:00;Hospital Vida;Produção;NetBackup;Backup Diferencial;Azure;43.8;82.16;Sucesso;Sem falha;120;Não
+JOB-1194;2025-09-06 16:00:00;Hospital Vida;Homologação;Veeam;Backup Diferencial;AWS;34.1;90.19;Sucesso;Sem falha;120;Não
+JOB-1233;2025-09-09 18:00:00;Grupo Horizonte;Homologação;NetBackup;Backup Incremental;On-premise;33.4;48.31;Sucesso;Sem falha;90;Não
+JOB-1016;2025-09-09 19:00:00;Lab Saúde Total;Produção;NetBackup;Backup Diferencial;AWS;35.6;42.8;Sucesso;Sem falha;120;Não
+JOB-1218;2025-09-09 20:00:00;Hospital Vida;Produção;NetBackup;Backup Incremental;On-premise;30.1;58.15;Sucesso;Sem falha;90;Não
+JOB-1243;2025-09-09 23:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Completo;Azure;34.9;39.79;Falha;Credenciais;180;Não
+JOB-1091;2025-09-10 00:00:00;Lab Saúde Total;Produção;Veeam;Backup Diferencial;On-premise;29.0;52.69;Sucesso;Sem falha;120;Não
+JOB-1128;2025-09-10 12:00:00;Lab Saúde Total;Produção;NetBackup;Backup Incremental;Azure;47.7;18.01;Sucesso;Sem falha;90;Não
+JOB-1024;2025-09-10 15:00:00;Clínica Sim - Unidade 02;Desenvolvimento;Veeam;Backup Completo;On-premise;48.1;46.68;Falha;Armazenamento;180;Não
+JOB-1054;2025-09-11 11:00:00;Hospital Vida;Homologação;Veeam;Backup Completo;Azure;28.3;29.79;Sucesso;Sem falha;180;Não
+JOB-1058;2025-09-12 08:00:00;Grupo Horizonte;Produção;NetBackup;Backup Diferencial;Azure;11.4;36.19;Sucesso;Sem falha;120;Não
+JOB-1193;2025-09-12 08:00:00;Lab Saúde Total;Produção;Veeam;Backup Diferencial;AWS;104.4;95.28;Sucesso;Sem falha;120;Não
+JOB-1104;2025-09-12 12:00:00;Hospital Vida;Produção;NetBackup;Backup Incremental;On-premise;16.5;33.14;Sucesso;Sem falha;90;Não
+JOB-1046;2025-09-12 13:00:00;Clínica Sim - Unidade 01;Homologação;Veeam;Backup Incremental;On-premise;58.3;71.22;Sucesso;Sem falha;90;Não
+JOB-1093;2025-09-12 20:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;Azure;9.2;59.92;Sucesso;Sem falha;90;Não
+JOB-1099;2025-09-13 06:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;On-premise;27.2;69.24;Sucesso;Sem falha;90;Não
+JOB-1235;2025-09-13 13:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;Azure;17.8;14.02;Sucesso;Sem falha;90;Não
+JOB-1116;2025-09-13 19:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Completo;Azure;16.1;65.64;Sucesso;Sem falha;180;Não
+JOB-1110;2025-09-14 03:00:00;Grupo Horizonte;Produção;NetBackup;Backup Diferencial;AWS;25.5;24.26;Sucesso;Sem falha;120;Não
+JOB-1157;2025-09-14 20:00:00;Grupo Horizonte;Homologação;NetBackup;Backup Completo;AWS;8.3;25.63;Sucesso;Sem falha;180;Não
+JOB-1061;2025-09-14 20:00:00;Clínica Sim - Unidade 02;Produção;NetBackup;Backup Incremental;Azure;35.4;14.07;Sucesso;Sem falha;90;Não
+JOB-1022;2025-09-15 02:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;On-premise;27.8;134.98;Sucesso;Sem falha;90;Não
+JOB-1003;2025-09-15 15:00:00;Hospital Vida;Homologação;Veeam;Backup Diferencial;On-premise;19.3;52.91;Falha;Configuração;120;Não
+JOB-1047;2025-09-17 01:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;Azure;27.6;71.78;Sucesso;Sem falha;90;Não
+JOB-1002;2025-09-17 02:00:00;Hospital Vida;Desenvolvimento;NetBackup;Backup Incremental;Azure;69.9;150.46;Falha;Credenciais;90;Não
+JOB-1142;2025-09-17 08:00:00;Grupo Horizonte;Produção;NetBackup;Backup Incremental;Azure;45.5;3.44;Falha;Timeout;90;Não
+JOB-1171;2025-09-17 19:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Incremental;Azure;38.2;43.53;Sucesso;Sem falha;90;Não
+JOB-1070;2025-09-18 00:00:00;Lab Saúde Total;Desenvolvimento;NetBackup;Backup Completo;Azure;34.9;54.14;Sucesso;Sem falha;180;Não
+JOB-1156;2025-09-18 01:00:00;Clínica Sim - Unidade 01;Desenvolvimento;Veeam;Backup Incremental;AWS;8.3;103.17;Sucesso;Sem falha;90;Não
+JOB-1201;2025-09-18 02:00:00;Clínica Sim - Matriz;Desenvolvimento;Veeam;Backup Incremental;Azure;42.4;42.28;Sucesso;Sem falha;90;Não
+JOB-1228;2025-09-18 06:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Completo;Azure;43.9;128.99;Sucesso;Sem falha;180;Não
+JOB-1073;2025-09-18 10:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Diferencial;On-premise;36.1;42.14;Sucesso;Sem falha;120;Não
+JOB-1066;2025-09-19 04:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Completo;On-premise;35.4;169.63;Sucesso;Sem falha;180;Não
+JOB-1198;2025-09-19 07:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;On-premise;49.0;9.35;Sucesso;Sem falha;90;Não
+JOB-1111;2025-09-19 07:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Incremental;On-premise;14.0;138.66;Sucesso;Sem falha;90;Não
+JOB-1017;2025-09-19 08:00:00;Clínica Sim - Unidade 02;Desenvolvimento;Veeam;Backup Incremental;On-premise;44.1;75.01;Sucesso;Sem falha;90;Não
+JOB-1249;2025-09-20 15:00:00;Clínica Sim - Unidade 02;Produção;NetBackup;Backup Incremental;AWS;43.2;58.71;Sucesso;Sem falha;90;Não
+JOB-1015;2025-09-20 15:00:00;Grupo Horizonte;Homologação;Veeam;Backup Incremental;On-premise;13.5;34.6;Sucesso;Sem falha;90;Não
+JOB-1229;2025-09-20 18:00:00;Clínica Sim - Unidade 02;Desenvolvimento;Veeam;Backup Diferencial;On-premise;23.0;97.1;Sucesso;Sem falha;120;Não
+JOB-1007;2025-09-21 14:00:00;Lab Saúde Total;Produção;NetBackup;Backup Incremental;On-premise;75.1;28.33;Sucesso;Sem falha;90;Não
+JOB-1136;2025-09-22 09:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;Azure;20.8;27.45;Sucesso;Sem falha;90;Não
+JOB-1029;2025-09-22 19:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Incremental;Azure;46.8;23.05;Sucesso;Sem falha;90;Não
+JOB-1057;2025-09-23 03:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Completo;AWS;15.3;22.3;Sucesso;Sem falha;180;Não
+JOB-1130;2025-09-23 10:00:00;Hospital Vida;Homologação;Veeam;Backup Incremental;AWS;32.4;100.65;Sucesso;Sem falha;90;Não
+JOB-1146;2025-09-23 19:00:00;Hospital Vida;Homologação;NetBackup;Backup Incremental;AWS;16.4;30.57;Sucesso;Sem falha;90;Não
+JOB-1001;2025-09-23 22:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Incremental;Azure;48.9;41.5;Sucesso;Sem falha;90;Não
+JOB-1033;2025-09-24 01:00:00;Grupo Horizonte;Produção;Veeam;Backup Diferencial;On-premise;53.2;55.32;Sucesso;Sem falha;120;Não
+JOB-1223;2025-09-24 04:00:00;Hospital Vida;Produção;Veeam;Backup Completo;AWS;10.3;43.89;Sucesso;Sem falha;180;Não
+JOB-1127;2025-09-24 10:00:00;Grupo Horizonte;Desenvolvimento;Veeam;Backup Incremental;Azure;16.3;115.64;Sucesso;Sem falha;90;Não
+JOB-1196;2025-09-25 07:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Completo;AWS;11.2;44.16;Sucesso;Sem falha;180;Não
+JOB-1120;2025-09-26 10:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;On-premise;52.4;61.97;Sucesso;Sem falha;90;Não
+JOB-1038;2025-09-26 19:00:00;Clínica Sim - Unidade 01;Desenvolvimento;Veeam;Backup Incremental;On-premise;24.3;31.74;Sucesso;Sem falha;90;Não
+JOB-1118;2025-09-26 19:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;AWS;1.2;33.65;Falha;Credenciais;90;Não
+JOB-1069;2025-09-26 23:00:00;Grupo Horizonte;Desenvolvimento;Veeam;Backup Incremental;Azure;41.0;62.29;Sucesso;Sem falha;90;Não
+JOB-1176;2025-09-27 01:00:00;Clínica Sim - Unidade 01;Homologação;NetBackup;Backup Incremental;AWS;30.4;38.08;Sucesso;Sem falha;90;Não
+JOB-1040;2025-09-27 22:00:00;Clínica Sim - Matriz;Desenvolvimento;NetBackup;Backup Completo;Azure;41.1;65.43;Sucesso;Sem falha;180;Não
+JOB-1126;2025-09-28 08:00:00;Lab Saúde Total;Homologação;NetBackup;Backup Incremental;On-premise;5.1;48.9;Sucesso;Sem falha;90;Não
+JOB-1125;2025-09-28 16:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;On-premise;47.2;70.84;Sucesso;Sem falha;90;Não
+JOB-1227;2025-09-28 23:00:00;Clínica Sim - Unidade 02;Homologação;Veeam;Backup Diferencial;On-premise;44.7;8.86;Sucesso;Sem falha;120;Não
+JOB-1133;2025-09-29 18:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;Azure;40.0;30.16;Sucesso;Sem falha;90;Não
+JOB-1188;2025-09-29 22:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Completo;On-premise;11.5;57.93;Sucesso;Sem falha;180;Não
+JOB-1161;2025-09-29 23:00:00;Hospital Vida;Produção;Veeam;Backup Completo;On-premise;13.9;61.07;Sucesso;Sem falha;180;Não
+JOB-1208;2025-09-30 03:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Completo;Azure;47.1;80.83;Sucesso;Sem falha;180;Não
+JOB-1209;2025-09-30 05:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Diferencial;On-premise;31.8;44.24;Sucesso;Sem falha;120;Não
+JOB-1041;2025-10-01 14:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Completo;AWS;4.9;111.36;Falha;Rede;180;Não
+JOB-1132;2025-10-01 15:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;On-premise;23.7;33.51;Sucesso;Sem falha;90;Não
+JOB-1009;2025-10-01 18:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;On-premise;5.4;67.14;Sucesso;Sem falha;90;Não
+JOB-1101;2025-10-01 20:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;On-premise;5.4;17.71;Sucesso;Sem falha;90;Não
+JOB-1092;2025-10-01 21:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;Azure;15.1;21.44;Sucesso;Sem falha;90;Não
+JOB-1072;2025-10-02 07:00:00;Clínica Sim - Unidade 01;Homologação;NetBackup;Backup Diferencial;On-premise;34.3;19.06;Sucesso;Sem falha;120;Não
+JOB-1141;2025-10-02 07:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;AWS;13.6;12.05;Sucesso;Sem falha;90;Não
+JOB-1124;2025-10-02 08:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Incremental;On-premise;27.4;16.34;Sucesso;Sem falha;90;Não
+JOB-1212;2025-10-02 08:00:00;Clínica Sim - Unidade 01;Desenvolvimento;Veeam;Backup Incremental;AWS;24.2;92.03;Sucesso;Sem falha;90;Não
+JOB-1048;2025-10-02 12:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Diferencial;On-premise;33.1;20.52;Sucesso;Sem falha;120;Não
+JOB-1244;2025-10-02 16:00:00;Grupo Horizonte;Produção;NetBackup;Backup Completo;On-premise;12.3;33.66;Sucesso;Sem falha;180;Não
+JOB-1014;2025-10-03 03:00:00;Clínica Sim - Matriz;Desenvolvimento;NetBackup;Backup Completo;On-premise;27.4;33.92;Sucesso;Sem falha;180;Não
+JOB-1144;2025-10-03 08:00:00;Hospital Vida;Homologação;Veeam;Backup Completo;Azure;61.3;87.19;Sucesso;Sem falha;180;Não
+JOB-1074;2025-10-03 10:00:00;Grupo Horizonte;Produção;NetBackup;Backup Completo;On-premise;18.6;22.59;Falha;Timeout;180;Não
+JOB-1225;2025-10-03 15:00:00;Lab Saúde Total;Homologação;Veeam;Backup Completo;AWS;29.7;7.78;Sucesso;Sem falha;180;Não
+JOB-1030;2025-10-03 16:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;On-premise;22.4;63.92;Sucesso;Sem falha;90;Não
+JOB-1122;2025-10-03 17:00:00;Lab Saúde Total;Produção;NetBackup;Backup Incremental;AWS;17.3;10.93;Sucesso;Sem falha;90;Não
+JOB-1178;2025-10-03 22:00:00;Hospital Vida;Produção;Veeam;Backup Diferencial;AWS;57.1;38.39;Falha;Credenciais;120;Não
+JOB-1090;2025-10-05 10:00:00;Grupo Horizonte;Produção;Veeam;Backup Diferencial;Azure;90.8;30.47;Sucesso;Sem falha;120;Não
+JOB-1050;2025-10-05 19:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;On-premise;23.2;108.62;Sucesso;Sem falha;90;Não
+JOB-1045;2025-10-06 01:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;On-premise;20.1;42.27;Sucesso;Sem falha;90;Não
+JOB-1152;2025-10-06 05:00:00;Grupo Horizonte;Produção;NetBackup;Backup Completo;Azure;23.1;49.34;Sucesso;Sem falha;180;Não
+JOB-1114;2025-10-06 13:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Completo;AWS;5.0;72.65;Sucesso;Sem falha;180;Não
+JOB-1221;2025-10-06 19:00:00;Lab Saúde Total;Homologação;NetBackup;Backup Completo;AWS;52.9;26.27;Sucesso;Sem falha;180;Não
+JOB-1140;2025-10-07 23:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Diferencial;On-premise;62.2;3.53;Sucesso;Sem falha;120;Não
+JOB-1189;2025-10-08 02:00:00;Clínica Sim - Unidade 01;Desenvolvimento;Veeam;Backup Completo;Azure;48.6;19.54;Sucesso;Sem falha;180;Não
+JOB-1147;2025-10-08 04:00:00;Clínica Sim - Unidade 01;Desenvolvimento;Veeam;Backup Diferencial;AWS;46.1;70.41;Sucesso;Sem falha;120;Não
+JOB-1004;2025-10-08 06:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;Azure;17.2;14.13;Sucesso;Sem falha;90;Não
+JOB-1117;2025-10-08 11:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Completo;Azure;25.5;105.66;Sucesso;Sem falha;180;Não
+JOB-1207;2025-10-08 16:00:00;Grupo Horizonte;Homologação;Veeam;Backup Incremental;On-premise;12.1;31.79;Sucesso;Sem falha;90;Não
+JOB-1155;2025-10-09 05:00:00;Clínica Sim - Unidade 01;Homologação;Veeam;Backup Completo;AWS;34.9;28.18;Sucesso;Sem falha;180;Não
+JOB-1184;2025-10-09 07:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;On-premise;13.5;21.33;Sucesso;Sem falha;90;Não
+JOB-1121;2025-10-09 07:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Completo;On-premise;18.6;149.25;Sucesso;Sem falha;180;Não
+JOB-1108;2025-10-09 22:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Completo;On-premise;13.9;80.08;Sucesso;Sem falha;180;Não
+JOB-1200;2025-10-10 02:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Completo;AWS;36.3;18.41;Sucesso;Sem falha;180;Não
+JOB-1012;2025-10-10 05:00:00;Lab Saúde Total;Produção;NetBackup;Backup Diferencial;On-premise;26.8;47.77;Sucesso;Sem falha;120;Não
+JOB-1236;2025-10-10 13:00:00;Clínica Sim - Matriz;Homologação;NetBackup;Backup Incremental;On-premise;8.4;78.32;Sucesso;Sem falha;90;Não
+JOB-1159;2025-10-10 15:00:00;Hospital Vida;Homologação;Veeam;Backup Incremental;On-premise;6.6;17.28;Sucesso;Sem falha;90;Não
+JOB-1204;2025-10-10 16:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Diferencial;On-premise;38.7;46.19;Sucesso;Sem falha;120;Não
+JOB-1076;2025-10-10 18:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;AWS;10.9;29.67;Sucesso;Sem falha;90;Não
+JOB-1219;2025-10-11 00:00:00;Clínica Sim - Matriz;Homologação;NetBackup;Backup Diferencial;On-premise;11.8;113.12;Sucesso;Sem falha;120;Não
+JOB-1158;2025-10-11 03:00:00;Lab Saúde Total;Desenvolvimento;Veeam;Backup Incremental;Azure;36.3;73.13;Sucesso;Sem falha;90;Não
+JOB-1112;2025-10-11 18:00:00;Hospital Vida;Produção;NetBackup;Backup Incremental;Azure;8.5;39.9;Falha;Credenciais;90;Não
+JOB-1160;2025-10-12 05:00:00;Clínica Sim - Unidade 01;Homologação;Veeam;Backup Incremental;On-premise;13.0;71.85;Sucesso;Sem falha;90;Não
+JOB-1180;2025-10-12 06:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Diferencial;On-premise;15.9;82.08;Sucesso;Sem falha;120;Não
+JOB-1086;2025-10-12 23:00:00;Hospital Vida;Produção;Veeam;Backup Diferencial;On-premise;30.2;24.11;Sucesso;Sem falha;120;Não
+JOB-1107;2025-10-13 05:00:00;Lab Saúde Total;Desenvolvimento;NetBackup;Backup Incremental;Azure;44.3;74.95;Sucesso;Sem falha;90;Não
+JOB-1154;2025-10-13 07:00:00;Lab Saúde Total;Homologação;Veeam;Backup Incremental;On-premise;18.3;41.47;Sucesso;Sem falha;90;Não
+JOB-1129;2025-10-13 16:00:00;Clínica Sim - Unidade 02;Homologação;NetBackup;Backup Diferencial;On-premise;12.5;40.18;Sucesso;Sem falha;120;Não
+JOB-1191;2025-10-14 11:00:00;Hospital Vida;Desenvolvimento;Veeam;Backup Completo;AWS;10.1;57.29;Sucesso;Sem falha;180;Não
+JOB-1173;2025-10-14 18:00:00;Clínica Sim - Unidade 02;Homologação;NetBackup;Backup Diferencial;On-premise;5.7;18.77;Sucesso;Sem falha;120;Não
+JOB-1079;2025-10-14 20:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;AWS;17.5;36.77;Sucesso;Sem falha;90;Não
+JOB-1239;2025-10-14 23:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Incremental;AWS;20.6;45.7;Sucesso;Sem falha;90;Não
+JOB-1186;2025-10-15 02:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Completo;On-premise;30.1;41.07;Sucesso;Sem falha;180;Não
+JOB-1025;2025-10-15 06:00:00;Clínica Sim - Unidade 01;Homologação;NetBackup;Backup Incremental;Azure;44.0;18.97;Sucesso;Sem falha;90;Não
+JOB-1113;2025-10-15 19:00:00;Lab Saúde Total;Desenvolvimento;Veeam;Backup Incremental;AWS;26.2;37.21;Sucesso;Sem falha;90;Não
+JOB-1181;2025-10-16 19:00:00;Lab Saúde Total;Produção;Veeam;Backup Diferencial;On-premise;9.4;34.19;Sucesso;Sem falha;120;Não
+JOB-1143;2025-10-17 05:00:00;Grupo Horizonte;Produção;NetBackup;Backup Diferencial;On-premise;67.5;13.13;Sucesso;Sem falha;120;Não
+JOB-1083;2025-10-17 15:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Completo;On-premise;51.1;81.82;Falha;Rede;180;Não
+JOB-1100;2025-10-18 09:00:00;Grupo Horizonte;Produção;NetBackup;Backup Incremental;AWS;33.1;33.1;Falha;Timeout;90;Não
+JOB-1214;2025-10-18 12:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Incremental;On-premise;45.4;62.18;Sucesso;Sem falha;90;Não
+JOB-1089;2025-10-18 23:00:00;Hospital Vida;Produção;Veeam;Backup Incremental;On-premise;10.0;60.28;Sucesso;Sem falha;90;Não
+JOB-1028;2025-10-19 03:00:00;Grupo Horizonte;Homologação;NetBackup;Backup Diferencial;Azure;16.4;61.83;Sucesso;Sem falha;120;Não
+JOB-1215;2025-10-19 23:00:00;Lab Saúde Total;Desenvolvimento;Veeam;Backup Completo;AWS;49.9;19.21;Sucesso;Sem falha;180;Não
+JOB-1226;2025-10-19 23:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Incremental;On-premise;29.9;41.06;Sucesso;Sem falha;90;Não
+JOB-1106;2025-10-20 03:00:00;Clínica Sim - Unidade 01;Produção;NetBackup;Backup Completo;On-premise;43.6;61.29;Sucesso;Sem falha;180;Não
+JOB-1169;2025-10-20 10:00:00;Hospital Vida;Homologação;NetBackup;Backup Completo;On-premise;21.4;95.31;Sucesso;Sem falha;180;Não
+JOB-1044;2025-10-21 11:00:00;Lab Saúde Total;Produção;Veeam;Backup Completo;AWS;31.8;23.5;Sucesso;Sem falha;180;Não
+JOB-1175;2025-10-21 11:00:00;Hospital Vida;Produção;Veeam;Backup Completo;On-premise;24.4;76.35;Sucesso;Sem falha;180;Não
+JOB-1183;2025-10-21 15:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Completo;On-premise;22.6;47.32;Sucesso;Sem falha;180;Não
+JOB-1187;2025-10-22 01:00:00;Clínica Sim - Matriz;Homologação;NetBackup;Backup Diferencial;Azure;11.8;33.93;Sucesso;Sem falha;120;Não
+JOB-1119;2025-10-22 13:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;AWS;65.9;71.18;Sucesso;Sem falha;90;Não
+JOB-1053;2025-10-22 13:00:00;Clínica Sim - Matriz;Homologação;Veeam;Backup Diferencial;On-premise;12.1;25.88;Sucesso;Sem falha;120;Não
+JOB-1177;2025-10-22 18:00:00;Clínica Sim - Unidade 02;Produção;Veeam;Backup Diferencial;On-premise;43.7;24.41;Sucesso;Sem falha;120;Não
+JOB-1139;2025-10-23 06:00:00;Lab Saúde Total;Produção;NetBackup;Backup Incremental;Azure;39.7;30.93;Sucesso;Sem falha;90;Não
+JOB-1071;2025-10-24 11:00:00;Grupo Horizonte;Produção;NetBackup;Backup Diferencial;Azure;15.5;29.24;Sucesso;Sem falha;120;Não
+JOB-1123;2025-10-24 22:00:00;Lab Saúde Total;Produção;Veeam;Backup Incremental;On-premise;41.5;30.31;Falha;Configuração;90;Não
+JOB-1037;2025-10-25 01:00:00;Clínica Sim - Unidade 01;Desenvolvimento;NetBackup;Backup Incremental;On-premise;19.6;61.67;Sucesso;Sem falha;90;Não
+JOB-1023;2025-10-25 07:00:00;Clínica Sim - Matriz;Homologação;NetBackup;Backup Incremental;On-premise;3.6;38.55;Sucesso;Sem falha;90;Não
+JOB-1195;2025-10-25 09:00:00;Grupo Horizonte;Produção;Veeam;Backup Incremental;AWS;29.7;46.69;Sucesso;Sem falha;90;Não
+JOB-1199;2025-10-25 16:00:00;Clínica Sim - Unidade 01;Produção;Veeam;Backup Incremental;AWS;29.3;13.12;Sucesso;Sem falha;90;Não
+JOB-1035;2025-10-25 21:00:00;Clínica Sim - Unidade 02;Produção;NetBackup;Backup Completo;AWS;46.1;100.98;Sucesso;Sem falha;180;Não
+JOB-1067;2025-10-25 22:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Incremental;AWS;31.6;48.94;Sucesso;Sem falha;90;Não
+JOB-1032;2025-10-26 04:00:00;Clínica Sim - Unidade 01;Desenvolvimento;NetBackup;Backup Incremental;Azure;48.2;111.17;Sucesso;Sem falha;90;Não
+JOB-1240;2025-10-26 10:00:00;Clínica Sim - Matriz;Produção;Veeam;Backup Incremental;On-premise;27.2;83.52;Sucesso;Sem falha;90;Não
+JOB-1237;2025-10-26 21:00:00;Lab Saúde Total;Produção;NetBackup;Backup Incremental;On-premise;78.2;74.98;Sucesso;Sem falha;90;Não
+JOB-1080;2025-10-27 00:00:00;Clínica Sim - Unidade 02;Homologação;Veeam;Backup Incremental;AWS;13.9;14.82;Sucesso;Sem falha;90;Não
+JOB-1203;2025-10-27 13:00:00;Lab Saúde Total;Produção;Veeam;Backup Diferencial;Azure;7.8;22.59;Sucesso;Sem falha;120;Não
+JOB-1010;2025-10-28 23:00:00;Hospital Vida;Produção;Veeam;Backup Diferencial;AWS;36.1;40.38;Sucesso;Sem falha;120;Não
+JOB-1039;2025-10-29 03:00:00;Clínica Sim - Matriz;Produção;NetBackup;Backup Completo;Azure;58.5;17.95;Sucesso;Sem falha;180;Não
+JOB-1088;2025-10-29 10:00:00;Lab Saúde Total;Homologação;Veeam;Backup Completo;AWS;69.8;108.61;Sucesso;Sem falha;180;Não
+JOB-1149;2025-10-30 00:00:00;Lab Saúde Total;Homologação;Veeam;Backup Completo;Azure;33.1;14.6;Sucesso;Sem falha;180;Não
+JOB-1005;2025-10-30 09:00:00;Lab Saúde Total;Desenvolvimento;Veeam;Backup Completo;On-premise;14.8;68.09;Sucesso;Sem falha;180;Não
+JOB-1081;2025-10-30 22:00:00;Hospital Vida;Desenvolvimento;Veeam;Backup Incremental;On-premise;3.5;83.68;Sucesso;Sem falha;90;Não
