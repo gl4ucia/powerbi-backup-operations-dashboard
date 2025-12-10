@@ -82,4 +82,4 @@ Os KPIs criados no projeto:
 ## Sobre Mim
 
 Sou profissional de TI com experiência em infraestrutura, backup corporativo, cloud e governança de dados, atualmente em transição para **Análise de Dados e BI**.  
-Este projeto representa minha evolução prática na área, aplicando dados gerados por IA para gerar insights estratégicos.
+Este projeto representa minha evolução prática na área, aplicando dados ficticios gerados por IA para gerar insights estratégicos.
