@@ -1,5 +1,3 @@
-
----
 ## Indicadores (KPIs)
 
 Os KPIs criados no projeto:
@@ -52,8 +50,6 @@ Os KPIs criados no projeto:
 - **Power BI Desktop**
 - **Power Query (ETL)**
 - **DAX (criação de medidas e indicadores)**
-- **Python (geração do dataset simulado)**
-- **Governança de Dados**
 - **Storytelling com Dados**
 
 ---
@@ -63,16 +59,6 @@ Os KPIs criados no projeto:
 - O ambiente de **Produção concentra o maior volume tanto de jobs quanto de falhas**.
 - A tendência de falhas apresenta **picos em datas específicas**, indicando possíveis janelas de manutenção ou instabilidade.
 - Alguns clientes apresentam **falhas recorrentes**, sugerindo necessidade de análise mais profunda.
-
----
-
-## Como Executar o Projeto
-
-1. Baixe o arquivo `.pbix` na pasta `/pbix`
-2. Instale o Power BI Desktop  
-3. Abra o arquivo  
-4. Verifique se o arquivo CSV está na pasta correta (`/data`)  
-5. Caso necessário, atualize o caminho da fonte de dados
 
 ---
 
@@ -91,7 +77,4 @@ Os KPIs criados no projeto:
 ## Sobre Mim
 
 Sou profissional de TI com experiência em infraestrutura, backup corporativo, cloud e governança de dados, atualmente em transição para **Análise de Dados e BI**.  
-Este projeto representa minha evolução prática na área, aplicando dados reais do meu contexto profissional para gerar insights estratégicos.
-
----
-
+Este projeto representa minha evolução prática na área, aplicando dados gerados por IA para gerar insights estratégicos.
