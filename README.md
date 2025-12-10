@@ -72,8 +72,21 @@ Os KPIs criados no projeto:
 - Métricas de desempenho  
 - Análise de dados operacionais
   
----
 
+## 📸 Prints do Dashboard
+
+- Página 1 (KPIs + Tendência + Status + Clientes)
+- <img width="1282" height="721" alt="image" src="https://github.com/user-attachments/assets/e8d40d9e-e95b-4a58-b91e-11e1a08f5702" />
+- Gráfico de tendência de falhas
+  <img width="1275" height="200" alt="image" src="https://github.com/user-attachments/assets/a7a4878a-2656-484d-8a78-27bf17314ead" />
+
+- Comparação por ambiente
+  <img width="615" height="322" alt="image" src="https://github.com/user-attachments/assets/e851cea8-61a5-4d4e-936b-6ebf62c257bf" />
+
+- Ranking de clientes com falha
+  <img width="611" height="323" alt="image" src="https://github.com/user-attachments/assets/eb7213a9-3746-48a6-ac26-4075ac19b16a" />
+
+---
 ## Sobre Mim
 
 Sou profissional de TI com experiência em infraestrutura, backup corporativo, cloud e governança de dados, atualmente em transição para **Análise de Dados e BI**.  
